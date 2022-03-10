@@ -21,6 +21,9 @@
 - [ ] 时间计量
 - [ ] javaScriptWeekly 的新技术
 - [ ] 记录已学技术
+- [ ] [umi doc ready to read](https://pro.ant.design/zh-CN/docs/new-page)
+- [ ] [umiJS](https://umijs.org/zh-CN/docs/directory-structure)
+- [ ] [ProComponents](https://procomponents.ant.design/components)
 
 # 0. 使用步骤
 
