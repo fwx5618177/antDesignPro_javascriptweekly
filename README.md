@@ -15,6 +15,11 @@
 2. 新建任务后,自动分配时间
 3. 自动提醒学习新的技术(javascriptWeekly)等
 
+# TODO LIST
+
+- [ ] 时刻表
+- [ ] 时间计量
+
 # 0. 使用步骤
 
 - 安装: `npm install`
